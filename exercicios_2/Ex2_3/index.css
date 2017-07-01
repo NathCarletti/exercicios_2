@@ -1,0 +1,20 @@
+h1{
+    color: purple;
+}
+body{
+    text-align: center;
+}
+ul{
+    font-variant-position: center;
+    border: 1px solid violet;
+    list-style-type: disc;
+    width:10%;
+    position: absolute;
+    left: 45%;
+}
+ul li{
+    color: palevioletred;
+    padding: 3px;
+    border: 1px solid purple;
+    width: 80%;
+}
